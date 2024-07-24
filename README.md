@@ -60,5 +60,4 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Disclaimer
-This tool is for educational purposes only. Be mindful of the target website's terms of service regarding web scraping and data usage.
+
