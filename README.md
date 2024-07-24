@@ -44,7 +44,7 @@ VisionForge is an advanced image conversion tool engineered to handle multiple i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/VisionForge.git
+   git clone https://github.com/SilentForge/VisionForge.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -100,5 +100,3 @@ VisionForge is distributed under the MIT License. See `LICENSE` file for more in
 ---
 
 Developed with ❤️ by [PixelPerfekt](https://pixelperfekt.me/)
-
-Keywords: Python, Image Converter, GUI, tkinter, customtkinter, Pillow, Batch Processing, Open Source
